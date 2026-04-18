@@ -1,40 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=180&section=header&text=Hi%20👋,%20I'm%20Paule&fontSize=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=160&section=header&text=Paule&fontSize=50&fontColor=ffffff&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=75" />
 </p>
 
-<h3 align="center">🌟 Aspiring Software Engineer</h3>
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Tech Stack
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+### 📖 Learning
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 🌐 Socials
+[![Discord Tools](https://img.shields.io/badge/Discord%20%7C%20Tools-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Ej2pjmyCcw)
+[![Discord Scripts](https://img.shields.io/badge/Discord%20%7C%20Scripts-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hasty)
+
+### 🚀 About
+- 🌱 Exploring **Full Stack Dev**
+- 🔒 Most repos are private
+- 🧠 Always improving
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently exploring **Full Stack Development** & **Software Engineering**
-- 🔒 Most of my repositories are **private**
-- 🧠 Always improving my coding skills
-
----
-
-## 🌐 Socials
 <p align="center">
-  <a href="https://discord.gg/RYnmyAdg">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Paule1248&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paule1248&theme=radical&hide_border=true&layout=compact" />
 </p>
 
----
-
-## 💻 Tech Stack
-![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-## 📖 Currently Learning
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Paule1248&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paule1248&theme=radical&hide_border=true&layout=compact)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=100&section=footer" />
+</p>
